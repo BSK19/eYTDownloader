@@ -1,6 +1,7 @@
 # eYTDownloader
 
 eYTDownloader is a simple GUI application built with Python and tkinter for downloading YouTube videos and displaying their thumbnails.
+The content shown here is only for educational purposes, the creator of the does not take responsabilites for any other use given to the program
 
 ## Features
 
